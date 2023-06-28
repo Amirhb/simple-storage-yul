@@ -1,0 +1,9 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SimpleStorageYul",
+  "sourceName": "contracts/SimpleStorageYul.yul",
+  "abi": [],
+  "bytecode": "0x602b600a815f395ff3fe5f803560e01c80632e64cec114602257636057361d14601b5780fd5b6004359055005b60208280548152f3",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
